@@ -1,4 +1,3 @@
-@"
 streamlit
 torch
 transformers
@@ -9,4 +8,3 @@ joblib
 plotly
 matplotlib
 seaborn
-"@ | Out-File -Encoding utf8 requirements.txt

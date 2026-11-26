@@ -1,0 +1,12 @@
+@"
+streamlit
+torch
+transformers
+scikit-learn
+pandas
+numpy
+joblib
+plotly
+matplotlib
+seaborn
+"@ | Out-File -Encoding utf8 requirements.txt

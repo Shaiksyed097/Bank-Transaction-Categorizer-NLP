@@ -1,0 +1,10 @@
+{
+  "Baseline (TF-IDF + Logistic Regression)": {
+    "Accuracy (%)": 100.0,
+    "Macro F1 (%)": 100.0
+  },
+  "Transformer (Fine-tuned DistilBERT)": {
+    "Accuracy (%)": 100.0,
+    "Macro F1 (%)": 100.0
+  }
+}
